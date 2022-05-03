@@ -17,6 +17,8 @@ If on Mac or Linux, your terminal already has the Unix commands built in, just o
 
 
 
+Getting Started
+
 1) Installing Node.js
 Since I am using Javasript and NPM (Node Package Manager) we need to install Node.js which can be found here - https://nodejs.org/en/download/
 Find which version you need and follow the included instructions!
